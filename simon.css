@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+.btn-container {
+    height: 600px;
+    width: 600px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+}
+
+.col1 {
+    background-color: #d95980;
+}
+
+.col2 {
+    background-color: #63aa60;
+}
+
+.col3 {
+    background-color: #f99b45;
+}
+
+.col4 {
+    background-color: #819ff9;
+}
+
+.flash {
+    background-color: white;
+}
